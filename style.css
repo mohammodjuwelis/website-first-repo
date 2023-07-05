@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.header-title{
+    color: red;
+    background-color: aquamarine;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 5px solid tomato;
+}
+
+.body-text{
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: burlywood;
+    padding: 20px;
+}
